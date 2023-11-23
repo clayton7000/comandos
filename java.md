@@ -5,3 +5,6 @@
 
 
 *Executar executavel java : java -jar teste.jar*
+
+
+*mvn clean install -DskipTests*
